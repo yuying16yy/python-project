@@ -4,4 +4,13 @@ def fibo(n):
     else:
         return fibo(n - 1) + fibo(n - 2)
 
-print fibo(5)
+
+def check(sum):
+    if sum > 1000:
+        print "number is too big"
+    else:
+        print "Your fibo number is", sum
+
+
+check(fibo(10))
+check(fibo(20))
