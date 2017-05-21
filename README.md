@@ -1,2 +1,2 @@
 # python-project
-# test.py
+Just an example
