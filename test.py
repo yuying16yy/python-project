@@ -11,6 +11,13 @@ def check(sum):
     else:
         print "Your fibo number is", sum
 
+def ables(k)
+    if sum>1000:
+        print "ok"
+    else:
+        print "sb"
+
 
 check(fibo(10))
 check(fibo(20))
+ables(5)
